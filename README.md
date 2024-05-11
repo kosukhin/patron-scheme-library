@@ -8,13 +8,13 @@
 
 ## Babel
 
-[Базовое](https://github.com/kosukhin/mind-library/raw/main/babelBasics.json)
+[Базовое](https://main--heroic-dragon-b8712a.netlify.app/?view=https://github.com/kosukhin/mind-library/raw/main/babelBasics.json)
 
 ## Браузер
 
-[Базовое](https://github.com/kosukhin/mind-library/blob/main/browserBasics.json)
+[Базовое](https://main--heroic-dragon-b8712a.netlify.app/?view=https://github.com/kosukhin/mind-library/blob/main/browserBasics.json)
 
-[DevTools](https://github.com/kosukhin/mind-library/raw/main/browserDevTools.json)
+[DevTools](https://main--heroic-dragon-b8712a.netlify.app/?view=https://github.com/kosukhin/mind-library/raw/main/browserDevTools.json)
 
 [DOM](https://github.com/kosukhin/mind-library/raw/main/browserDomBasics.json)
 
@@ -79,6 +79,7 @@
 ## HTTP
 
 [Базовое](https://github.com/kosukhin/mind-library/raw/main/httpBasics.json)
+
 [Spec](https://github.com/kosukhin/mind-library/raw/main/httpSpecification.json)
 
 ## JS
@@ -138,7 +139,9 @@
 ## Теории
 
 [Автоматы](https://github.com/kosukhin/mind-library/raw/main/theoryAutomats.json)
+
 [Лямда вычисления](https://github.com/kosukhin/mind-library/raw/main/theoryLamdas.json)
+
 [Множества](https://github.com/kosukhin/mind-library/raw/main/theorySets.json)
 
 ## Мысли
@@ -164,11 +167,17 @@
 ## Vue
 
 [Базовое](https://github.com/kosukhin/mind-library/raw/main/vueBasics.json)
+
 [История эволюции](https://github.com/kosukhin/mind-library/raw/main/vueHistoryEvolution.json)
+
 [Интернационализация](https://github.com/kosukhin/mind-library/raw/main/vueI18N.json)
+
 [Nuxt](https://github.com/kosukhin/mind-library/raw/main/vueNuxt.json)
+
 [Роутер](https://github.com/kosukhin/mind-library/raw/main/vueRouter.json)
+
 [VueUse](https://github.com/kosukhin/mind-library/raw/main/vueVueUse.json)
+
 [Vuetify](https://github.com/kosukhin/mind-library/raw/main/vueVuetify.json)
 
 ## Webpack
